@@ -1,0 +1,28 @@
+body {
+    background-color: #fff8f0;
+}
+
+.bg-brown {
+    background-color: #138b1f !important;
+}
+
+.btn-brown {
+    background-color: #8B4513;
+    color: white;
+}
+
+.btn-brown:hover {
+    background-color: #a0522d;
+    color: white;
+}
+
+.banner {
+    width: 120;
+    height: 60vh;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url(img/download.png);
+;
+   
+    background-size: cover;
+    background-position: center;
+}
